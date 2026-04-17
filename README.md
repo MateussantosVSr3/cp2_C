@@ -46,7 +46,7 @@ Para garantir a limpeza e escalabilidade do código, o projeto foi organizado da
 ### 1. Menu Principal
 > [!IMPORTANT]
 > Adicione aqui o print da tela inicial do seu sistema.
-![Menu Principal](https://github.com/MateussantosVSr3/cp2_C/blob/master/img/imagem%20(1).jpg)
+![Menu Principal](https://github.com/MateussantosVSr3/cp2_C/blob/master/img/imagem.png)
 
 ### 2. Processamento de Cartão
 > [!IMPORTANT]
