@@ -56,7 +56,7 @@ Para garantir a limpeza e escalabilidade do código, o projeto foi organizado da
 ### 3. Processamento de Boleto
 > [!IMPORTANT]
 > Adicione aqui o print do teste de pagamento com boleto.
-![Pagamento Boleto](link-da-sua-imagem-aqui.png)
+![Pagamento Boleto](img/imagem (1).jpg)
 
 ---
 
