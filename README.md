@@ -51,7 +51,7 @@ Para garantir a limpeza e escalabilidade do código, o projeto foi organizado da
 ### 2. Processamento de Cartão
 > [!IMPORTANT]
 > Adicione aqui o print do teste de pagamento com cartão.
-![Pagamento Cartão](link-da-sua-imagem-aqui.png)
+![Pagamento Cartão](img/imagem.jpg)
 
 ### 3. Processamento de Boleto
 > [!IMPORTANT]
